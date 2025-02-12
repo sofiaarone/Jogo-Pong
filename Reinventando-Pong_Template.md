@@ -2,17 +2,10 @@
 
 
 ## 1. Introdução  
-A reinvenção do jogo Pong foi A atividade tem como propósito explorar o Framework MDA, Concept Art e Game Design por meio da análise e reinterpretação do jogo clássico Pong e da prática com imagens digitais. Os alunos desenvolverão um Concept Art e uma tela digital baseados na proposta de reinvenção do jogo e devem refletir sobre como suas escolhas podem alterar a proposta inicial.
-
-
-*Descreva brevemente o objetivo da atividade, mencionando a proposta de reinvenção do jogo Pong e a abordagem escolhida pela dupla.*
- 
----
+A reinvenção do jogo Pong foi a atividade que tem como objetivo reeinterpretar o jogo "Pong" e, dessa forma, criar um novo jogo baseando-se no original e explorar o Framework MDA, Concept Art e Game Design. Utilizando o Framer, foi possível criar uma Concept Art do novo jogo, agora reinventado com o tema de cozinha.
 
 ## 2. Pesquisa e Análise Inicial  
-*Explique as principais características do **jogo original Pong**, considerando os três elementos do **Framework MDA** e responda: o que torna Pong um jogo envolvente e jogável? Quais são seus **elementos principais de diversão e desafio**?*
-
----
+O jogo Pong tem como diferencial a sua ambietação minimalista ( aesthetics ) com apenas uma bolinha, dois riscos na tela para representar as raquetes de ping pong e, por fim, a tela dividindo a quadra em duas partes. Dessa forma, o jogador tende a se familiarizaar facilmente com a mecânica dentro do jogo, porém, não significa que seja fácil. Mais adiante, Pong foi um dos primeiros jogos de arcade a serem desenvolvidos e foi uma grande novidade pelo fato da pontuação dentro do jogo ser contada automaticamente. Assim, com uma mecânica simples, o jogo também possui uma dinâmica direta. Esta se resume ter um número m~inimo de jogadores ( pelo menos dois ) e bater na bola com a raquete. Portanto, quem fizer mais pontos, vence. Entretanto, é m desafio ficar com a concentração máxima na bolinha e no adversário durante a partida. 
 
 ## 3. Proposta de Reinvenção  
 *Explique as mudanças propostas para a nova versão do **Pong**, detalhando:*  

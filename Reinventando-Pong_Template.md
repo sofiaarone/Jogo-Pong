@@ -18,11 +18,9 @@ O jogo Pong tem como diferencial a sua ambietação minimalista ( aesthetics ) c
 
 *- **Personagens ou Elementos Visuais:** Há tomates no lugar de bolas ping-pong, espátulas no lugar de raquetes de tênis de mesa e, por fim, um fogão no lugar de uma mesa comum. 
 
-*- **Mudanças na Mecânica:** Houve alguma alteração nas regras ou na forma de jogar?*
-
 *- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?*
 
-*Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
+ *Link do Protótipo 1 e elementos adicionados ao jogo:* https://docs.google.com/document/d/1KhG6-zQ8dgxpryEV0dxWMJB45NovgHNWQn0uOudhAIc/edit?usp=sharing
 
 ---
 

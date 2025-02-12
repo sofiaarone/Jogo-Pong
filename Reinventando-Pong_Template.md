@@ -4,15 +4,19 @@
 ## 1. Introdução  
 A reinvenção do jogo Pong foi a atividade que tem como objetivo reeinterpretar o jogo "Pong" e, dessa forma, criar um novo jogo baseando-se no original e explorar o Framework MDA, Concept Art e Game Design. Utilizando o Framer, foi possível criar uma Concept Art do novo jogo, agora reinventado com o tema de cozinha.
 
+---
+
 ## 2. Pesquisa e Análise Inicial  
 O jogo Pong tem como diferencial a sua ambietação minimalista ( aesthetics ) com apenas uma bolinha, dois riscos na tela para representar as raquetes de ping pong e, por fim, a tela dividindo a quadra em duas partes. Dessa forma, o jogador tende a se familiarizaar facilmente com a mecânica dentro do jogo, porém, não significa que seja fácil. Mais adiante, Pong foi um dos primeiros jogos de arcade a serem desenvolvidos e foi uma grande novidade pelo fato da pontuação dentro do jogo ser contada automaticamente. Assim, com uma mecânica simples, o jogo também possui uma dinâmica direta. Esta se resume ter um número m~inimo de jogadores ( pelo menos dois ) e bater na bola com a raquete. Portanto, quem fizer mais pontos, vence. Entretanto, é m desafio ficar com a concentração máxima na bolinha e no adversário durante a partida. 
 
+---
+
 ## 3. Proposta de Reinvenção  
-*Explique as mudanças propostas para a nova versão do **Pong**, detalhando:*  
+*As novas mudanças propostas para a nova versão do **Pong**:*
 
-*- **Tema e Ambientação:** Qual é o novo contexto do jogo?*
+- **Tema e Ambientação:** O novo contexto do jogo trata-se de se passar em um cenário de uma cozinha/ restaurante.
 
-*- **Personagens ou Elementos Visuais:** Se houver personagens ou variações visuais, descreva.*
+*- **Personagens ou Elementos Visuais:** Há tomates no lugar de bolas ping-pong, espátulas no lugar de raquetes de tênis de mesa e, por fim, um fogão no lugar de uma mesa comum. 
 
 *- **Mudanças na Mecânica:** Houve alguma alteração nas regras ou na forma de jogar?*
 

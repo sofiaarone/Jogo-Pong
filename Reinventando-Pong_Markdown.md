@@ -21,7 +21,7 @@ O jogo Pong tem como diferencial a sua ambietação minimalista ( aesthetics ) c
 - **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?*
 
  - **Link do Protótipo 1 e elementos adicionados ao jogo:**
- - https://docs.google.com/document/d/1KhG6-zQ8dgxpryEV0dxWMJB45NovgHNWQn0uOudhAIc/edit?usp=sharing
+  https://docs.google.com/document/d/1KhG6-zQ8dgxpryEV0dxWMJB45NovgHNWQn0uOudhAIc/edit?usp=sharing
 
 ---
 

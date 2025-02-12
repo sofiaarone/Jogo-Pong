@@ -16,11 +16,12 @@ O jogo Pong tem como diferencial a sua ambietação minimalista ( aesthetics ) c
 
 - **Tema e Ambientação:** O novo contexto do jogo trata-se de se passar em um cenário de uma cozinha/ restaurante.
 
-- ## Personagens ou Elementos Visuais:** Há tomates no lugar de bolas ping-pong, espátulas no lugar de raquetes de tênis de mesa e, por fim, um fogão no lugar de uma mesa comum. 
+- **Personagens ou Elementos Visuais:** Há tomates no lugar de bolas ping-pong, espátulas no lugar de raquetes de tênis de mesa e, por fim, um fogão no lugar de uma mesa comum. 
 
-- ## bjetivo da Reinvenção: O que a nova versão pretende explorar ou melhorar em relação ao original?*
+- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?*
 
- - ## Link do Protótipo 1 e elementos adicionados ao jogo:* https://docs.google.com/document/d/1KhG6-zQ8dgxpryEV0dxWMJB45NovgHNWQn0uOudhAIc/edit?usp=sharing
+ - **Link do Protótipo 1 e elementos adicionados ao jogo:**
+ - https://docs.google.com/document/d/1KhG6-zQ8dgxpryEV0dxWMJB45NovgHNWQn0uOudhAIc/edit?usp=sharing
 
 ---
 

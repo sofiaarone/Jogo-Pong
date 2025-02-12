@@ -2,6 +2,9 @@
 
 
 ## 1. Introdução  
+A reinvenção do jogo Pong foi A atividade tem como propósito explorar o Framework MDA, Concept Art e Game Design por meio da análise e reinterpretação do jogo clássico Pong e da prática com imagens digitais. Os alunos desenvolverão um Concept Art e uma tela digital baseados na proposta de reinvenção do jogo e devem refletir sobre como suas escolhas podem alterar a proposta inicial.
+
+
 *Descreva brevemente o objetivo da atividade, mencionando a proposta de reinvenção do jogo Pong e a abordagem escolhida pela dupla.*
  
 ---

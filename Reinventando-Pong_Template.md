@@ -42,8 +42,9 @@ O jogo Pong tem como diferencial a sua ambietação minimalista ( aesthetics ) c
 ---
 
 ## 6. Referências (se houver)  
-Caso tenha utilizado referências externas, inclua aqui as fontes consultadas.  
-
+- Jogo "Fruit Ninja" como inspiração
+- https://www.nintendoblast.com.br/2010/01/historia-dos-video-games-4-o-pong-1972.html
+- 
 ---
 
 **📝 Formato de Entrega:**  

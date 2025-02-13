@@ -26,7 +26,7 @@ O jogo Pong tem como diferencial a sua ambietação minimalista ( aesthetics ) c
 ---
 
 ## 4. Tela Digital do Jogo  
-*link da imagem do jogo finalizado:*
+- **link da imagem do jogo finalizado:**
 https://www.figma.com/design/nmAZ1wLVC3aN3NDuXja2kq/Master-Chef-Pong?node-id=0-1&t=myQ3QUin1CN3SqKK-1 
 
 *- Como o concept foi adaptado para o formato digital?*

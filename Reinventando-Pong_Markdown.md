@@ -48,9 +48,8 @@ https://www.figma.com/design/nmAZ1wLVC3aN3NDuXja2kq/Master-Chef-Pong?node-id=0-1
   2)
   
 - Isabela:
-  1) Por ser a primeira experiencia com a plataforma Figma, foi um pouco desafiador no contexto de criação de figuaras do zero como o tomate e a espatula, além de idealizar cores mais chamativas.
-     //
-  2) A criação de figuras e também a habilidade de escuta foi primordial para aceitação de ideias no grupo, o dialogo e ideias de novos ativamentos no jogo foram muito produtivos.
+  1-  Por ser a primeira experiencia com a plataforma Figma, foi um pouco desafiador no contexto de criação de figuaras do zero como o tomate e a espatula, além de idealizar cores mais chamativas.
+  2-  A criação de figuras e também a habilidade de escuta foi primordial para aceitação de ideias no grupo, o dialogo e ideias de novos ativamentos no jogo foram muito produtivos.
 
 - Humberto:
   1) O processo de encaixar a nova ideia no jogo de modo a deixá-lo jogável, mas sem perder a essência do game

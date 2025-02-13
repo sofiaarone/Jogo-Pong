@@ -41,8 +41,20 @@ https://www.figma.com/design/nmAZ1wLVC3aN3NDuXja2kq/Master-Chef-Pong?node-id=0-1
 *Cada membro da dupla deve responder individualmente:*  
 
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
-2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
+2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
 
+- Sofia:
+  1) 
+  2)
+  
+- Isabela:
+  1)
+  2)
+
+- Humberto:
+  1)
+  2)
+  
 ---
 
 ## 6. Referências  

@@ -26,14 +26,14 @@ O jogo Pong tem como diferencial a sua ambietação minimalista ( aesthetics ) c
 ---
 
 ## 4. Tela Digital do Jogo  
-- **link da imagem do jogo finalizado:**
+- **Link da imagem do jogo finalizado:**
 https://www.figma.com/design/nmAZ1wLVC3aN3NDuXja2kq/Master-Chef-Pong?node-id=0-1&t=myQ3QUin1CN3SqKK-1 
 
-*- Como o concept foi adaptado para o formato digital?*
+*- Como o concept foi adaptado para o formato digital?* O concept foi adaptado usando o Figma. 
 
-*- Quais elementos visuais foram aprimorados?*  
+*- Quais elementos visuais foram aprimorados?* As raquetes e bolas, por exemplo, foram substituídas por espátulas e tomates, respectivamente.
 
-*- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
+*- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?* As cores foram pensadas para se encaixarem no visual da cozinha, juntamente com cenário. Dessa forma, a mudança do tema do jogo. Porém, mantendo a mesma ideia do jogo original, de bater a bola (tomate ) com uma raquete ( espátula ) de um lado para o outro.
 
 ---
 

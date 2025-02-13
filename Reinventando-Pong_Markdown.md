@@ -2,7 +2,7 @@
 
 
 ## 1. Introdução  
-A reinvenção do jogo Pong foi a atividade que tem como objetivo reeinterpretar o jogo "Pong" e, dessa forma, criar um novo jogo baseando-se no original e explorar o Framework MDA, Concept Art e Game Design. Utilizando o Framer, foi possível criar uma Concept Art do novo jogo, agora reinventado com o tema de cozinha.
+A reinvenção do jogo Pong foi a atividade que tem como objetivo reeinterpretar o jogo "Pong" e, dessa forma, criar um novo jogo baseando-se no original e explorar o Framework MDA, Concept Art e Game Design. Utilizando o  Figma, foi possível criar uma Concept Art do novo jogo, agora reinventado com o tema de cozinha.
 
 ---
 
@@ -18,9 +18,9 @@ O jogo Pong tem como diferencial a sua ambietação minimalista ( aesthetics ) c
 
 - **Personagens ou Elementos Visuais:** Há tomates no lugar de bolas ping-pong, espátulas no lugar de raquetes de tênis de mesa e, por fim, um fogão no lugar de uma mesa comum. 
 
-- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?*
+- **Objetivo da Reinvenção:** Em comparação com a versão original, a nova versão de Pong explora um novo ambiente e novos elementos que tornam o jogo ainda mais desafiante como, por exemplo, a adicao de power-ups.
 
- - **Link do Protótipo 1 e elementos adicionados ao jogo:**
+- **Link do Protótipo 1 e elementos adicionados ao jogo:**
   https://docs.google.com/document/d/1KhG6-zQ8dgxpryEV0dxWMJB45NovgHNWQn0uOudhAIc/edit?usp=sharing
 
 ---

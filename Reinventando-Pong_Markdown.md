@@ -48,7 +48,7 @@ https://www.figma.com/design/nmAZ1wLVC3aN3NDuXja2kq/Master-Chef-Pong?node-id=0-1
 ## 6. Referências (se houver)  
 - Jogo "Fruit Ninja" como inspiração
 - https://www.nintendoblast.com.br/2010/01/historia-dos-video-games-4-o-pong-1972.html
-- 
+  
 ---
 
 ## Membros do grupo:
